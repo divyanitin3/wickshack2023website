@@ -9,6 +9,10 @@ header h1 {
   color: #FFFF;
 }
 
+main {
+  font-family: "papaya";
+}
+
 nav ul {
   display: flex;
   justify-content: space-around;
@@ -37,5 +41,11 @@ footer {
 @font-face {
   font-family: fontindian;
   src: url(SAMAN___.TTF);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: papaya;
+  src: url(Papaya Sunrise D.otf);
   font-weight: bold;
 }
