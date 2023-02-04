@@ -30,7 +30,7 @@
       </section>
       <section id="location">
         <h2>Find Us</h2>
-        <p>We are usually parked at 123 Main St.</p>
+        <p>We are usually parked at 2512 Rio Grande St.</p>
         <img src="https://your-image-url-here.com/location-map.jpg" alt="Location Map">
       </section>
       <section id="about">
