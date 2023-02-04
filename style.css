@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header h1 {
+  text-align: center;
+  color: #5c5c5c;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  background-color: #bb111e;
+  padding: 20px 0;
+  margin: 0;
+}
+
+nav a {
+  color: #5c5c5c;
+  text-decoration: none;
+}
+
+section {
+  padding: 50px;
+  text-align: center;
+}
+
+footer {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+}
+
+@font-face {
+  font-family: fontindian;
+  src: url(SAMAN___.TTF);
+  font-weight: bold;
+}
